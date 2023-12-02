@@ -1,39 +1,45 @@
-# YouTube Clone Project
+# WatchMate - YouTube Clone
 
-## Overview
+Welcome to WatchMate, a YouTube clone app that brings familiar features to your fingertips. Dive into a seamless video streaming experience with functionalities like video search, playback, channel exploration, and a responsive design for versatile use.
 
-Welcome to the YouTube Clone project, a feature-rich replica of YouTube's core functionalities. This project allows users to explore and watch videos without the need for user authentication. Leveraging the YouTube API, it provides a seamless experience for rendering and playing videos.
+![WatchMate](https://github.com/Vanshul-Dahiya/youtube_clone/assets/97304314/1d404848-6f5c-463d-8dab-f8c742f69510)
 
-## Features
+## Live Demo
 
-- **Video Playback:** Enjoy high-quality videos through seamless integration with the YouTube API.
-- **Search Functionality:** Effortlessly find videos using keywords and receive relevant results.
-- **Responsive Design:** Experience the clone on various devices with its responsive design.
+Explore the live demo of WatchMate: [View Demo](https://watchmate-six.vercel.app/)
+
+## Functionalities
+
+### Video Search
+
+- **Search for Videos:** Use the search functionality to discover a wide range of videos based on keywords.
+
+### Video Playback
+
+- **High-Quality Playback:** Enjoy high-quality video playback for a captivating viewing experience.
+- **Playback Controls:** Control video playback with features like play, pause, volume adjustment, and fullscreen mode.
+
+### Channel
+
+- **Explore Channels:** Navigate through different channels to discover content from various creators.
+
+### Responsive Design
+
+- **Adaptive Interface:** Experience WatchMate seamlessly on a variety of devices with its responsive design.
 
 ## Getting Started
 
-Follow these instructions to set up a local development environment.
+To run WatchMate locally, follow these steps:
 
-### Prerequisites
-
-- Node.js installed on your machine
-- YouTube Data API v3 key
-
-### Installation
-
-1. Clone the repository: `git clone https://github.com/Vanshul-Dahiya/youtube-clone.git`
-2. Navigate to the project directory: `cd youtube_clone`
+1. Clone the repository: `git clone https://github.com/vanshul-dahiya/youtube_clone.git`
+2. Navigate to the project directory: `cd watchmate`
 3. Install dependencies: `npm install`
-4. Set up your YouTube API key in the `config.js` file.
-
-### Usage
-
-1. Start the development server: `npm start`
-2. Open your browser and visit `http://localhost:3000` to explore the YouTube clone.
+4. Start the app: `npm start`
+5. Open your browser and visit `http://localhost:3000`
 
 ## Contributing
 
-We welcome contributions to enhance the project. Follow these steps:
+We welcome contributions to enhance WatchMate. Follow these steps:
 
 1. Fork the repository
 2. Create a new branch: `git checkout -b feature/new-feature`
@@ -41,15 +47,19 @@ We welcome contributions to enhance the project. Follow these steps:
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request
 
+## Tech Stack
+
+- React
+- Tailwind Css
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
-- This project is inspired by YouTube and developed using the YouTube Data API.
+- WatchMate is inspired by YouTube and developed to showcase key video streaming functionalities.
 
 ## Contact
 
 For questions or feedback, please contact [vanshuldahiya2002@gmail.com].
-
